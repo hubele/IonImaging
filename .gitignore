@@ -1,0 +1,92 @@
+
+.idea/
+
+IonImaging/__pycache__/
+
+Simulations/Results and Plots/
+
+*.png
+/Simulations/machine_learning_testing.py
+/Simulations/Tensorflow Tutorials/16072020.py
+/Simulations/Tensorflow Tutorials/decay_numpy.py
+/Simulations/Tensorflow Tutorials/decay_numpy_16072020.py
+/Simulations/Tensorflow Tutorials/decay_tf_16072020.py
+/Simulations/Tensorflow Tutorials/eight_schools_16072020.py
+/Simulations/n_decays.py
+/Simulations/n_decays_v2.py
+/Simulations/Tensorflow Tutorials/single_detector_16072020.py
+/Simulations/Tensorflow Tutorials/single_detector_tensorflow_16072020.ipynb
+/Simulations/Tensorflow Tutorials/.ipynb_checkpoints/single_detector_tensorflow_16072020-checkpoint.ipynb
+/Simulations/Tensorflow Tutorials/Untitled.ipynb
+/Simulations/Tensorflow Tutorials/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+/Simulations/2detector_2ions_tf_19072020.py
+/Simulations/2detector_2ions_tf_20072020.py
+/Machine Learning/20200731/3Ions27Pixels_20200731_TestImages.npy
+/Machine Learning/20200731/3Ions27Pixels_20200731_TestLabels.npy
+/Machine Learning/20200731/3Ions27Pixels_20200731_TrainImages.npy
+/Machine Learning/20200731/3Ions27Pixels_20200731_TrainLabels.npy
+/Machine Learning/20200810/3Ions27Pixels_20200810_TestImages.npy
+/Machine Learning/20200810/3Ions27Pixels_20200810_TestLabels.npy
+/Machine Learning/20200810/3Ions27Pixels_20200810_TrainImages.npy
+/Machine Learning/20200810/3Ions27Pixels_20200810_TrainLabels.npy
+/Machine Learning/20200805/3Ions27Pixels_highM_20200805_TestImages.npy
+/Machine Learning/20200805/3Ions27Pixels_highM_20200805_TestLabels.npy
+/Machine Learning/20200805/3Ions27Pixels_highM_20200805_TrainImages.npy
+/Machine Learning/20200805/3Ions27Pixels_highM_20200805_TrainLabels.npy
+/Machine Learning/20200731/3Ions27Pixels_highQE_31072020_TestImages.npy
+/Machine Learning/20200731/3Ions27Pixels_highQE_31072020_TestLabels.npy
+/Machine Learning/20200731/3Ions27Pixels_highQE_31072020_TrainImages.npy
+/Machine Learning/20200731/3Ions27Pixels_highQE_31072020_TrainLabels.npy
+/Machine Learning/20200731/3Ions27Pixels_lowBkg_31072020_TestImages.npy
+/Machine Learning/20200731/3Ions27Pixels_lowBkg_31072020_TestLabels.npy
+/Machine Learning/20200731/3Ions27Pixels_lowBkg_31072020_TrainImages.npy
+/Machine Learning/20200731/3Ions27Pixels_lowBkg_31072020_TrainLabels.npy
+/Machine Learning/20200805/3Ions27Pixels_lowM_20200805_TestImages.npy
+/Machine Learning/20200805/3Ions27Pixels_lowM_20200805_TestLabels.npy
+/Machine Learning/20200805/3Ions27Pixels_lowM_20200805_TrainImages.npy
+/Machine Learning/20200805/3Ions27Pixels_lowM_20200805_TrainLabels.npy
+/Machine Learning/20200805/3Ions27Pixels_medM_20200805_TestImages.npy
+/Machine Learning/20200805/3Ions27Pixels_medM_20200805_TestLabels.npy
+/Machine Learning/20200805/3Ions27Pixels_medM_20200805_TrainImages.npy
+/Machine Learning/20200805/3Ions27Pixels_medM_20200805_TrainLabels.npy
+/Machine Learning/20200810/10Ions_20200810_TestImages.npy
+/Machine Learning/20200810/10Ions_20200810_TestLabels.npy
+/Machine Learning/20200810/10Ions_20200810_TrainImages.npy
+/Machine Learning/20200810/10Ions_20200810_TrainLabels.npy
+/Machine Learning/20200810/10Ions_ratio90_20200810_TestImages.npy
+/Machine Learning/20200810/10Ions_ratio90_20200810_TestLabels.npy
+/Machine Learning/20200810/10Ions_ratio90_20200810_TrainImages.npy
+/Machine Learning/20200810/10Ions_ratio90_20200810_TrainLabels.npy
+/Machine Learning/Tensorflow Tutorials/16072020.py
+/Machine Learning/basic_classifier.py
+/Machine Learning/Tensorflow Tutorials/classify_clothing.py
+/Machine Learning/Tensorflow Tutorials/decay_numpy.py
+/Machine Learning/Tensorflow Tutorials/decay_numpy_16072020.py
+/Machine Learning/Tensorflow Tutorials/decay_tf_16072020.py
+/Machine Learning/Tensorflow Tutorials/eight_schools_16072020.py
+/Simulations/generate_sim_images_20200805.py
+/Misc/generating_psfs.py
+/Misc/generating_psfs_ionimaging.py
+/Simulations/ionimaging_tf_test.py
+/Machine Learning/keras_classifier_single_hidden.py
+/Machine Learning/linear_svc.py
+/Machine Learning/Tensorflow Tutorials/Multi-label classification with Keras.pdf
+/Machine Learning/predicting_state.py
+/Machine Learning/Tensorflow Tutorials/single_detector_2ions_tf_19072020.py
+/Simulations/single_detector_2ions_tf_19072020.py
+/Machine Learning/Tensorflow Tutorials/single_detector_16072020.py
+/Machine Learning/Tensorflow Tutorials/single_detector_tensorflow_16072020.ipynb
+/Machine Learning/Tensorflow Tutorials/.ipynb_checkpoints/single_detector_tensorflow_16072020-checkpoint.ipynb
+/Machine Learning/20200731/StateMeasurement_3Ions.zip
+/Machine Learning/threshold_method.py
+/Machine Learning/tsne_analysis.py
+/Machine Learning/Tensorflow Tutorials/Untitled.ipynb
+/Machine Learning/Tensorflow Tutorials/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+
+*.ipynb_checkpoints
+*__pycache__
+*.sublime-project
+*.sublime-workspace
+*.egg-info
+/Machine Learning/Data
+test.py
